@@ -1,3 +1,4 @@
+import SkillsList from "./components/SkillsList.jsx";
 import Profilecard from "./components/ProfileCard.jsx";
 
 function App() {
@@ -8,6 +9,10 @@ function App() {
         name= 'seth'
         role = 'FULLSTACK DEVELOPER'
         
+        />
+      <hr />
+      <SkillsList
+              
         />
         </>
     )
