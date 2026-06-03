@@ -1,0 +1,40 @@
+.certificates-container{
+ width: 350px;
+ margin-top: 20px;
+ padding: 2rem;
+ border-radius: 20px;
+ background: limegreen;
+ box-shadow:  0 10px 30px rgba(0, 0, 0, 0.1);
+
+
+}
+
+.certificates.title{
+    margin-bottom: 20px;
+
+}
+
+.skill-item{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #eee;
+}
+
+
+
+.toggle-Button{
+    border: none;
+    background: #2563eb;
+    color: white;
+    padding: 12px 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.toggle-Button:hover{
+    transform: scale(1.05);
+}
+

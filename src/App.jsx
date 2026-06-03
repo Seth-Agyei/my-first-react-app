@@ -1,5 +1,6 @@
 import SkillsList from "./components/SkillsList.jsx";
 import Profilecard from "./components/ProfileCard.jsx";
+import CertificateList from "./components/CertificateList.jsx";
 
 function App() {
     return(
@@ -12,6 +13,11 @@ function App() {
         />
       <hr />
       <SkillsList
+              
+        />
+
+        <hr />
+      <CertificateList
               
         />
         </>
