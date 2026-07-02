@@ -5,7 +5,7 @@ function App() {
         <>
         <h1>First React Application</h1>
         <Profilecard
-        name= 'seth'
+        name= 'sethh'
         role = 'FULLSTACK DEVELOPER'
         
         />
